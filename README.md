@@ -2,7 +2,6 @@
 
 Shuriken is a Discord Bot designed to help run your server easier and keep people interested.
 
-#
 
 ## Contribution
 To contribute to Shuriken you can open an [Issue](https://github.com/ShurikenBot/Shuriken/issues/new) leaving a suggestion, reporting bugs or leaving feedback.
