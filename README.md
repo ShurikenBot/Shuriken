@@ -1,4 +1,4 @@
-[](https://i.imgur.com/BxY8zTc.png)
+![Shuriken Logo](https://i.imgur.com/BxY8zTc.png)
 
 Foobar is a Python library for dealing with word pluralization.
 
